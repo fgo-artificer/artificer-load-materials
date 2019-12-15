@@ -1,0 +1,6 @@
+**/package
+artificer-load-materials/
+
+*.zip
+*.tar
+*.json
